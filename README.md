@@ -85,7 +85,7 @@ src/main/java/com.example.productapi
  ├── controller     # REST endpoints
  ├── dto            # Request/response objects
  ├── service        # Business logic
- ├── repository     # Data access (optional with JPA)
+ ├── repository     # Data access 
  ├── model          # Entity/Domain models
  ├── exception      # Custom exceptions & global handler
  └── config         # Swagger configuration
@@ -100,8 +100,6 @@ src/main/java/com.example.productapi
 * **Spring Validation**
 * **Springdoc OpenAPI (Swagger UI)**
 * **Lombok**
-* (Optional) Spring Data JPA + H2/MySQL
-
 ---
 
 ## 🧪 Input Validation Rules
